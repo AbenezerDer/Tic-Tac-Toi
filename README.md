@@ -39,4 +39,4 @@ To run this game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/AbenezerDer/tic-tac-toe.git
