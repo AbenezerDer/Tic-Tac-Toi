@@ -1,3 +1,4 @@
+console.log("connected")
 const statusDisplay = document.getElementById('status');
 const gameBoard = document.getElementById('game-board');
 const resetButton = document.getElementById('reset-button');
